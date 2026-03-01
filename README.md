@@ -1,0 +1,1 @@
+[![CI](https://github.com/shubhprime/w3q5/actions/workflows/ci.yml/badge.svg)](https://github.com/shubhprime/w3q5/actions/workflows/ci.yml)
